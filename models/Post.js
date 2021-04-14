@@ -17,7 +17,7 @@ Post.init (
         allowNull: false,
     },
     content: {
-        type: DataType.TEXT,
+        type: DataTypes.TEXT,
         allowNull: false,
     },
     user_id: {
